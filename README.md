@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Doğukan KOZBA</h1>
 <h3 align="center">SEO & Server Administration Expert!</h3>
 
-- 🚀 **SEO'da** 10 yıl, 📝 **Editörlük'te** 5 yıl, **Server Administration'da** ise 2 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
+- 🚀 **SEO & Editörlükte** 10 yıl, **Server Administration'da** ise 2 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
 
 <h2 align="left">Aktif Projelerim:</h2>
 
@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/kozba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kozba" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kozba54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kozba54" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Kozba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kozba" height="30" width="40" /></a>
-<a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1714691?s=280&v=4" alt="dogukan-kozba" height="30" width="40" /></a>
+<a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="[https://avatars.githubusercontent.com/u/1714691?s=280&v=4](https://static-00.iconduck.com/assets.00/udemy-icon-512x512-fepwbvyb.png)" alt="dogukan-kozba" height="30" width="40" /></a>
 </p>
 
 - 📫 Bana **dogukan@kozba.net** üzerinden ulaşabilirsiniz.
