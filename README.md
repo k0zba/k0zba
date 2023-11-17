@@ -7,7 +7,7 @@
 
 - 🛡️ [**CSA Digital**](https://csadigital.net/)
 
-- 📝 [**KOZBA.ORG**](https://csadigital.net/)
+- 📝 [**KOZBA.ORG**](https://www.kozba.org/)
 
 - 🔭 [**SepetX**](https://sepetx.com/)
 
