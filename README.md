@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/kozba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kozba" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kozba54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kozba54" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Kozba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kozba" height="30" width="40" /></a>
-<a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/udemy-icon-512x512-fepwbvyb.png" alt="dogukan-kozba" height="30" width="40" /></a>
+<a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="dogukan-kozba" height="30" width="40" /></a>
 </p>
 
 - 📫 Bana **dogukan@kozba.net** üzerinden ulaşabilirsiniz.
