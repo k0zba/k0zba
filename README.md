@@ -5,17 +5,17 @@
 
 <h2 align="left">Aktif Projelerim:</h2>
 
-- 🛡️ [**CSA Digital**](https://csadigital.net/)
+🛡️ [**CSA Digital**](https://csadigital.net/)
 
-- 📝 [**KOZBA.ORG**](https://www.kozba.org/)
+📝 [**KOZBA.ORG**](https://www.kozba.org/)
 
-- 🔭 [**SepetX**](https://sepetx.com/)
+🔭 [**SepetX**](https://sepetx.com/)
 
-- 🔭 [**Mekanik SEO**](https://mekanikseo.com/)
+🔭 [**Mekanik SEO**](https://mekanikseo.com/)
 
 <h3 align="left">İnaktif Projelerim:</h3>
 
-- 🛡️ [**KOZBA.NET**](https://www.kozba.net/) 
+🛡️ [**KOZBA.NET**](https://www.kozba.net/) 
 
 <h3 align="left">İletişim:</h3>
 <p align="left">
