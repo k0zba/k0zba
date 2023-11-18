@@ -13,7 +13,7 @@
 
 - 🔭 [**Mekanik SEO**](https://mekanikseo.com/)
 
-<h3 align="right">İnaktif Projelerim:</h3>
+<h3 align="left">İnaktif Projelerim:</h3>
 
 - 🛡️ [**KOZBA.NET**](https://www.kozba.net/) 
 
