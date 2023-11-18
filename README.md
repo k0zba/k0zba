@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba 👋, Ben KOZBA</h1>
+<h1 align="center">Merhaba 👋 Ben KOZBA</h1>
 <h3 align="center">SEO & Server Administration Expert!</h3>
 
-- 🚀 **SEO & Editörlükte** 10 yıl, **Server Administration'da** ise 2 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
+🚀 **SEO & Editörlükte** 10 yıl, **Server Administration'da** ise 2 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
 
 <h2 align="left">Aktif Projelerim:</h2>
 
@@ -13,7 +13,7 @@
 
 - 🔭 [**Mekanik SEO**](https://mekanikseo.com/)
 
-<h3 align="left">İnaktif Projelerim:</h3>
+<h3 align="right">İnaktif Projelerim:</h3>
 
 - 🛡️ [**KOZBA.NET**](https://www.kozba.net/) 
 
