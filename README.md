@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Doğukan KOZBA</h1>
+<h1 align="center">Merhaba 👋, Ben KOZBA</h1>
 <h3 align="center">SEO & Server Administration Expert!</h3>
 
 - 🚀 **SEO & Editörlükte** 10 yıl, **Server Administration'da** ise 2 yılı aşkın süredir profesyonel olarak hizmet vermekteyim.
