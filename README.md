@@ -11,13 +11,13 @@
 
 - 🔭 [**SepetX**](https://sepetx.com/)
 
-- 🔭 [**Mekanik SEO**](https://mekanikseo.com/)
+- 🚀 [**Mekanik SEO**](https://mekanikseo.com/)
 
-- 🛡️ [**KOZBA.NET**](https://www.kozba.net/) 
+- 📝 [**KOZBA.NET**](https://www.kozba.net/) 
 
-- 🛡️ [**CashGPT**](https://csadigital.net/yazilim/cashgpt-yapay-zeka-makale) 
+- 🤖 [**CashGPT**](https://csadigital.net/yazilim/cashgpt-yapay-zeka-makale) 
 
-- 🛡️ [**BiBlog**](https://csadigital.net/yazilim/bi-blog-gelismis-yapay-zeka-blog-ve-haber-scripti) 
+- 🤖 [**BiBlog**](https://csadigital.net/yazilim/bi-blog-gelismis-yapay-zeka-blog-ve-haber-scripti) 
 
 
 
