@@ -9,8 +9,6 @@
 
 - 📝 [**KOZBA.ORG**](https://www.kozba.org)
 
-- 🔭 [**SepetX**](https://sepetx.com/)
-
 - 🚀 [**Mekanik SEO**](https://mekanikseo.com/)
 
 - 🤖 [**CashGPT**](https://csadigital.net/yazilim/cashgpt-yapay-zeka-makale) 
