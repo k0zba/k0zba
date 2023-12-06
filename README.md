@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@Kozba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kozba" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kozba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kozba" height="30" width="40" /></a>
+<a href="https://twitter.com/KozbaORG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@KozbaORG" height="30" width="40" /></a>
 <a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1714691?s=280&v=4" alt="dogukan-kozba" height="30" width="40" /></a>
 </p>
 
