@@ -25,4 +25,4 @@
 <a href="https://www.udemy.com/user/dogukan-kozba/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1714691?s=280&v=4" alt="dogukan-kozba" height="30" width="40" /></a>
 </p>
 
-- 📫 Bana **dogukan@kozba.net** üzerinden ulaşabilirsiniz.
+- 📫 Bana **dogukan@kozba.net** üzerinden de ulaşabilirsiniz.
